@@ -3,6 +3,10 @@ It aids players in precisely timing their actions to manipulate the game's RNG f
 
 ![programme](https://github.com/T0T0W/G3-Sniper/assets/161255413/28d979c8-966c-4ccb-b19e-cbe03c087f95)
 
+![NOICE](https://github.com/T0T0W/G3-Sniper/assets/161255413/9b91a6b9-ddc2-4e72-93a9-5941b88921aa)
+
+
+
 The script is compiled into a .exe file using Pyinstaller. Windows Defender will think the file is unsafe. It's a false positive.
 
 If you want to use the python script directly:
