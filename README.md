@@ -23,4 +23,5 @@ Create a folder which include the following files:
 - icon.ico
 
 Open CMD into the folder and run this command:
+
 pyinstaller -w --onefile --icon=icon.ico --add-data "logo.png;." --add-data "icon.png;." G3_Sniper.py
